@@ -1,0 +1,46 @@
+Part;Value;Device;Package;Description;;;;;;;Price / 20;Price / 200-480;Price / 1000-1980;Price / 2000;
+B1;;B-DIL;B-DIL;RECTIFIER;;;;;;;0,676;0,521;0,413;0,372;https://de.rs-online.com/web/p/bruckengleichrichter/7102881?gb=s
+C1;680uF;CPOL-EU153CLV-0405;153CLV-0405;POLARIZED CAPACITOR, European symbol;;;;;;;0,434;0,152;0,144;0,144;https://de.rs-online.com/web/p/aluminium-elektrolytkondensatoren/5370023?gb=s
+C2;220uF;CPOL-EU153CLV-0405;153CLV-0405;POLARIZED CAPACITOR, European symbol;;;;;;;0,434;0,152;0,144;0,144;
+C3;220uF;CPOL-EU153CLV-0405;153CLV-0405;POLARIZED CAPACITOR, European symbol;;;;;;;0,434;0,152;0,144;0,144;
+C4;1uF;CC1210;C1210;CAPACITOR, European symbol;;;;;;;0,251;0,22;0,189;0,189;https://de.rs-online.com/web/p/keramik-vielschichtkondensatoren/8467369?gb=b
+C5;1uF;CC1210;C1210;CAPACITOR, European symbol;;;;;;;0,251;0,22;0,189;0,189;
+C6;1uF;CC1210;C1210;CAPACITOR, European symbol;;;;;;;0,251;0,22;0,189;0,189;
+C7;20pF;CC1210;C1210;CAPACITOR, European symbol;;;;;;;0,251;0,22;0,189;0,189;
+C8;1uF;CC1210;C1210;CAPACITOR, European symbol;;;;;;;0,251;0,22;0,189;0,189;
+C9;1uF;CC1210;C1210;CAPACITOR, European symbol;;;;;;;0,251;0,22;0,189;0,189;
+C10;20pF;CC1210;C1210;CAPACITOR, European symbol;;;;;;;0,251;0,22;0,189;0,189;
+C11;10uF;CC1210;C1210;CAPACITOR, European symbol;;;;;;;0,251;0,22;0,189;0,189;
+C12;10nF;CC1210;C1210;CAPACITOR, European symbol;;;;;;;0,251;0,22;0,189;0,189;
+C13;10nF;CC1210;C1210;CAPACITOR, European symbol;;;;;;;0,251;0,22;0,189;0,189;
+F3;;KS9V;KS9V;FUSE HOLDER;;;;;;;0,264;0,235;0,213;0,213;https://de.rs-online.com/web/p/nicht-ruckstellende-sicherungen/7675143?gb=s
+F4;;KS9V;KS9V;FUSE HOLDER;;;;;;;0,264;0,235;0,213;0,213;
+IC1;STM32U545RET6Q_LQFP64;STM32U545RET6Q_LQFP64;LQFP64_PACKAGE;STM32U535_U545_LQFP64 edit this description;;;;;;;5,81;4,6;4,2;4;https://estore.st.com/en/catalogsearch/result/?q=STM32U545
+IC2;;LM2596TH;TO220-52;STEP-DOWN VOLTAGE REGULATOR 5V;;;;;;;4,55;3,74;2,83;2,83;https://eu.mouser.com/ProductDetail/Texas-Instruments/LM2596T-33-LF03?qs=X1J7HmVL2ZFvTLHgVsSAgQ%3D%3D&gclid=CjwKCAjwlJimBhAsEiwA1hrp5hbI1pwxJTuFT69M_DjUPeWBQAgT4sCRWPF8_VBavRXpTGIIXlDcZBoCwUsQAvD_BwE
+IC3;ACS750SCA-050;ACS750SCA-050;ACS75050;Current Sensor;;;;;;;7,1;5,62;5,26;4,86;https://www.arrow.com/en/products/acs770lcb-100u-pff-t/allegro-microsystems
+IC4;;LM2596TH;TO220-52;STEP-DOWN VOLTAGE REGULATOR 3V;;;;;;;4,55;3,74;2,83;2,83;https://eu.mouser.com/ProductDetail/Texas-Instruments/LM2596T-5.0-NOPB?qs=X1J7HmVL2ZHpwKQnKqxVYA%3D%3D
+IC5;ACS750SCA-050;ACS750SCA-050;ACS75050;Current Sensor;;;;;;;7,1;5,62;5,26;4,86;
+IC6;ENC28J60SP;ENC28J60SP;DIL28-3;Stand-Alone Ethernet Controller with SPI Interface;;;;;;;4,81;4,51;4,51;4,51;https://de.rs-online.com/web/p/ethernet-schnittstellen-ics/6988981?gb=s
+Q1;;XTAL/S;QS;25 MHZ CRYSTAL;;;;;;;0,246;0,216;0,173;0,161;https://eu.mouser.com/ProductDetail/CTS-Electronic-Components/ATS250B-E?qs=EyvxYzk7Sd0BWJGGZGQ3cg%3D%3D
+R1;1k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;https://de.rs-online.com/web/p/smd-widerstande/8029826?gb=b
+R2;1k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R3;1k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R4;1k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R5;1k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R6;1k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R7;1k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R8;1k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R9;10k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R10;10k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R11;10k;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R12;100R;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+R13;100R;RR1206;R1206;RESISTOR, European symbol;;;;;;;0,001;FIX 5000 pcs;;;
+RESET;;10-XX;B3F-10XX;OMRON SWITCH;;;;;;;0,58;0,58;0,58;0,58;https://de.rs-online.com/web/p/tastschalter/6821137?gb=s
+RYBG211LITE;;FE05-1;FE05-1;FEMALE HEADER;;;;;;;1,13;1,07;1,07;1,07;https://eu.mouser.com/ProductDetail/TE-Connectivity/5-534237-3?qs=Eln3I3szM1klmLr%252BSZCsuQ%3D%3D
+T1;BC848;BC848;SOT23;NPN TRANSISTOR;;;;;;;0,272;0,272;0,09;0,085;https://de.rs-online.com/web/p/bipolare-transistoren/4452039?gb=s
+TR1;;VR04,5-1;VR04,5-1;TRANSFORMER;;;;;;;8;7,4;7,2;7,2;
+X1;J1006F01P;J1006F01P;J1;PULSEJACK (TM) 1x1 Tab-UP RJ45;;;;;;;2,47;1,73;1,73;1,73;https://de.rs-online.com/web/p/ethernet-steckverbinder/8183327?gb=s
+X3;;W237-02P;W237-132;WAGO SREW CLAMP;;;;;;;0,598;0,48;0,448;0,448;https://uk.rs-online.com/web/p/pcb-terminal-blocks/7901098?gb=s
+X4;;W237-02P;W237-132;WAGO SREW CLAMP;;;;;;;0,598;0,48;0,448;0,448;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;52,843;43,705;39,79;38,732;

@@ -14,10 +14,10 @@ uint32_t iD_2 = 0x89abcdef;
 uint32_t iD_3 = 0xfedcba89;
 
 
-const uint32_t data_Date = 0x0134b248;
-const uint32_t data_Time = 0x0003704f;
-const uint32_t data_Data_1 = 0x01234567;
-const uint32_t data_Data_2 = 0x89abcdef;
+uint32_t data_Date = 0x0134b248;
+uint32_t data_Time = 0x0003704f;
+uint32_t data_Data_1 = 0x01234567;
+uint32_t data_Data_2 = 0x89abcdef;
 
 //Assemble data package for encryption
 uint32_t input_data[4]={data_Date, data_Time, data_Data_1, data_Data_2};
@@ -36,7 +36,7 @@ int main(void)
   HAL_Init();
 
 
-  //Encrypt data package using Cryp library
+  //Encrypt data package
   HAL_CRYP_Encrypt(&hcryp, input_data, 4, encrypted_data, 1000);
 
 /* DATA ENCRYPTED READY FOR SENDING*/

@@ -1,20 +1,3 @@
-/* USER CODE BEGIN Header */
-/**
-  ******************************************************************************
-  * @file           : main.c
-  * @brief          : Main program body
-  ******************************************************************************
-  * @attention
-  *
-  * Copyright (c) 2023 STMicroelectronics.
-  * All rights reserved.
-  *
-  * This software is licensed under terms that can be found in the LICENSE file
-  * in the root directory of this software component.
-  * If no LICENSE file comes with this software, it is provided AS-IS.
-  *
-  ******************************************************************************
-  */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
@@ -34,7 +17,7 @@ static void MX_ADC4_Init(void);
 int main(void)
 {
 
-	//Init of hardware abst. layer
+    //Init of hardware abst. layer
   HAL_Init();
 
 
@@ -65,8 +48,8 @@ int main(void)
 	  //Calculate REAL adc voltage
 	  ADC_real = ADC_raw * 0.000805;
 
-	  //Calculate current from ADC value [sensitivity is 20 mv/A)
-	  Current = ADC_real / 0.02;
+	  //Calculate current from ADC value [sensitivity is 80 mv/A)
+	  Current = ADC_real / 0.08;
 
   }
   /* USER CODE END 3 */
